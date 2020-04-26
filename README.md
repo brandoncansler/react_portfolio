@@ -2,6 +2,7 @@
 * a portfolio build using react and react-mdl to showcase fullstack practices
 
 ## Deployed Link
+[GitHub Pages](https://brandoncansler.github.io/react_portfolio/)
 
 ## Tools/Technologies
 * Create-react-app cli
