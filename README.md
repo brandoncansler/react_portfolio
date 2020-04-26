@@ -1,6 +1,9 @@
 # My React Based Portfolio
 * a portfolio build using react and react-mdl to showcase fullstack practices
 
+## Example
+![example](example.gif)
+
 ## Deployed Link
 [GitHub Pages](https://brandoncansler.github.io/react_portfolio/)
 
